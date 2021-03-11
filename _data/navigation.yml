@@ -1,9 +1,9 @@
 main:
- - title: "GIỚI THIỆU"
+  - title: "GIỚI THIỆU"
     url: /about/
-  - title: " DỊCH VỤ"
+  - title: "DỊCH VỤ"
     url: /posts/
-  - title: " DỰ ÁN"
+  - title: "DỰ ÁN"
     url: /categories/
   - title: "Tags"
     url: /tags/
