@@ -1,9 +1,10 @@
 main:
-  - title: "Posts"
+ - title:"GIỚI THIỆU"
+    url: /about/
+  - title: " DỊCH VỤ"
     url: /posts/
-  - title: "Categories"
+  - title: " DỰ ÁN"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
+ 
