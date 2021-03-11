@@ -1,5 +1,5 @@
 main:
- - title:"GIỚI THIỆU"
+ - title: "GIỚI THIỆU"
     url: /about/
   - title: " DỊCH VỤ"
     url: /posts/
